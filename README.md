@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nidhi Singh.
-- 👀 I’m interested in Python, Django, JAvaScript, Reactjs and Cloud Technologies.
+- 👀 I’m interested in Python, Django, JavaScript, Reactjs and Cloud Technologies.
 - 🌱 I’m currently learning Web Developemnt.
 - 💞️ I’m looking to collaborate on Web Developemnt projects.
 - 📫 Reach me at : nidhisingh0068@gmail.com
